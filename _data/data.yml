@@ -1,43 +1,42 @@
-name: John Doe
+name: Jarry Rizvi
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: jarry.a.rizvi@gmail.com
+  github: JARizvi
+  linkedin: Jarry Rizvi
+  phone: 917-378-4885
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Urdu
+  - idiom: Hindi
+  - idiom: Spanish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BSc in Computer Engineering
+    time: 2016- Present
+    university: SUNY Farmingdale
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - Power BI
+      - Tableau
+      - Unix
+      - Linux
+      - AutoCad
+      - Microsoft Office
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
+      - Java
+      - C++
+      -Bash
+      -
 
 # Profile
 profile: |
